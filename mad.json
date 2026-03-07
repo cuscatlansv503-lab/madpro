@@ -2,43 +2,15 @@
   {
     "id": "4321444_",
     "nombre": "Nashville SC vs Minnesota United",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80"
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
+    "logo_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80"
   },
   {
     "id": "4322501_",
     "nombre": "Sporting Kansas City vs San Diego FC",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/648caa25c55909457ef7f432e7f34224.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/4431a6b60ebf9369297717921a290687.png!w80"
-  },
-  {
-    "id": "4282204_",
-    "nombre": "Auckland FC vs Perth Glory",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/6eae40b446299cfb06316430ae387475.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/43f9c122bf617d349407a95d4f709a0d.png!w80"
-  },
-  {
-    "id": "4332957_",
-    "nombre": "Colorado Rapids vs Los Angeles Galaxy",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/2d874c6a14447ac110695b300849ca7c.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80"
-  },
-  {
-    "id": "4322506_",
-    "nombre": "Tigres UANL vs Monterrey",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/5c3f819a35454f424d85df5757650f8b.png!w80"
-  },
-  {
-    "id": "4317302_",
-    "nombre": "Los Angeles FC vs FC Dallas",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/e829da6b3050ec03f3c8715690ec39c4.png!w80"
-  },
-  {
-    "id": "4317310_",
-    "nombre": "Portland Timbers vs Vancouver Whitecaps",
-    "imagen": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",
-    "imagen_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80"
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/648caa25c55909457ef7f432e7f34224.png!w80",
+    "logo_2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/4431a6b60ebf9369297717921a290687.png!w80"
   }
+ 
+ 
 ]

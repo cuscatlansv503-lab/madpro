@@ -1,164 +1,62 @@
 [
   {
- "id": "4200288_",
- "nombre": "Stade Brestois vs Le Havre",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/bb7e6346a3860008e4ff266ba3b655e8.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png!w80"
-},
-{
- "id": "4200292_",
- "nombre": "O. G. C. Nice vs Stade Rennais F. C.",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/eab8f0e847742fd328bb581299bd99ca.png!w80"
-},
-{
- "id": "4200317_",
- "nombre": "Lille O. S. C. vs F. C. Lorient",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/28e94925fdcc848f86a544a1cedcceed.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/b593727321793084b1f7804aebedc31a.png!w80"
-},
-{
- "id": "4244698_",
- "nombre": "Carrarese vs Palermo",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/53c9353ae031916156eef52442da9fb9.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/7254916ff6c50332b4e1b570068f2825.png!w80"
-},
-{
- "id": "4195372_",
- "nombre": "Rakow vs Pogon Szczecin",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/c85e626f9676ad5e4dcc8cdc3fbd6852.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80"
-},
-{
- "id": "4199745_",
- "nombre": "F. C. Unión Berlín vs Werder Bremen",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80"
-},
-{
- "id": "4203894_",
- "nombre": "QPR vs Middlesbrough",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/701e0713c180fa36266b425447d2f9c0.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/f08f87259dc2abc1449b67081e8b7f83.png!w80"
-},
-{
- "id": "4240343_",
- "nombre": "AS Sorrento Calcio vs Benevento",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/488cf4038705fadaf6c7db920782aa89.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/32ea0f2d506ec8181164b8563387f7f0.png!w80"
-},
-{
- "id": "4240350_",
- "nombre": "Foggia vs Potenza",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/0c8992ef652d337521dbbdf03dd7a97b.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/478c25d465838f37af59cd190207e32a.png!w80"
-},
-{
- "id": "4241194_",
- "nombre": "Guidonia vs US Sambenedettese",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/32a9a20cf26ee69ea136370865f7ae90.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/5de890f156fb2b4f81baba70a2770b54.png!w80"
-},
-{
- "id": "4360237_",
- "nombre": "Leeds Utd vs Norwich",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/cd46d2ed1d364308dc206c97b48ce556.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png!w80"
-},
-{
- "id": "4194666_",
- "nombre": "Genoa vs A. S. Roma",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80"
-},
-{
- "id": "4216812_",
- "nombre": "Fenerbahçe vs Samsunspor",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/d4c8121b5f738cfaf222779a43e7495d.png!w80"
-},
-{
- "id": "4220837_",
- "nombre": "Levadiakos vs Panathinaikos",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/d76fda2d2c1bb60532a2194d027bb4a8.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png!w80"
-},
-{
- "id": "4228678_",
- "nombre": "Atlético de Madrid B vs Hércules",
- "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/5403eb5d4e6eefc9e2ad1c645ddae452.png!w80",
- "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/5fee3011a980cc45bdb285e81fb86698.png!w80"
+  "id": "4364109_",
+  "nombre": "Galatasaray vs Liverpool",
+  "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/fbcf002c8d6dd34813fa2b3a4cc9b04c.png!w80",
+  "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80"
 },
   {
-    "id": "4194718_",
-    "nombre": "AC Milan vs Inter de Milán",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80"
-},
-{
-    "id": "4200285_",
-    "nombre": "Olympique de Lyon vs Paris FC",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80"
-},
-{
-    "id": "4209611_",
-    "nombre": "València CF vs Alavés",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/3b54543c1a584e2e9948d655142996d3.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80"
-},
-{
-    "id": "4212868_",
-    "nombre": "Deportivo de La Coruña vs Granada",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80"
-},
-{
-    "id": "4216052_",
-    "nombre": "Santa Clara vs V. Guimaraes",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/0c5162e7f8371cb6972ca6413bf228e8.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/ad97b71fe0d8df0e60f7c534fee24132.png!w80"
-},
-{
-    "id": "4322502_",
-    "nombre": "New York Red Bulls vs Club de Foot Montreal",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80"
-},
-{
-    "id": "4341196_",
-    "nombre": "Los Chankas vs Universitario",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/415e4ed317b0b0a4aea7c8ddc5cdd658.png!w80"
-},
-{
-    "id": "4317313_",
-    "nombre": "Cincinnati vs Toronto FC",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/a6f6290d4b7699729dc19349484841bf.png!w80"
-},
-{
-    "id": "4319197_",
-    "nombre": "Saprissa vs Herediano",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/9d9f49c182f05d684f38fbb480eba34b.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/a507b1509e1f640108395b0580b46976.png!w80"
-},
-{
-    "id": "4322489_",
-    "nombre": "Toluca vs Juárez",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80"
-},
-{
-    "id": "4330175_",
-    "nombre": "Palestino vs Cobresal",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/93aebb72f5f275d332976c73a7731186.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80"
-},
-{
-    "id": "4322494_",
-    "nombre": "Tijuana vs Santos Laguna",
-    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",
-    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/2552214027525015c3545cff636f5e03.png!w80"
-}
+    "id": "4363077_",
+    "nombre": "Atalanta B. C. vs Bayern de Múnich",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80"
+  },
+  {
+    "id": "4363254_",
+    "nombre": "Atlético Madrid vs Tottenham Hotspur",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/390977b0421bce136c562057ea171ecf.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80"
+  },
+  {
+    "id": "4364100_",
+    "nombre": "Newcastle vs FC Barcelona",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80"
+  },
+  {
+    "id": "4368031_",
+    "nombre": "Bolivar U20 vs Flamengo Sub-20",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/7cf437315aa8bfe8bf33bf7afad62d61.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/b1e09d05a06474019aa13722c693901f.png!w80"
+  },
+  {
+    "id": "4370205_",
+    "nombre": "Portuguesa vs Avaí",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/0809ccd7419380bfa8026bd684f86c71.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/d790c903117459a4afb308ad63d353f9.png!w80"
+  },
+  {
+    "id": "4321971_",
+    "nombre": "Tigre vs Vélez Sarsfield",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80"
+  },
+  {
+    "id": "4321984_",
+    "nombre": "Independiente vs Unión Santa Fe",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/47174721b260fae6e833329c13c9f2ee.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80"
+  },
+  {
+    "id": "4363447_",
+    "nombre": "Philadelphia Union vs Club América",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/574f1ee560e8835e605176cac36a87db.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80"
+  },
+  {
+    "id": "4331505_",
+    "nombre": "Atl. Bucaramanga vs Pereira",
+    "logo": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/70c92764e181ce7abe6176c411a93fe3.png!w80",
+    "logo2": "https://logos1.tcgsf42gl2.xyz/aelogo/football/team/2a016d670dd775e37ae908540843a444.png!w80"
+  }
 ]

@@ -1,16 +1,4 @@
-[
-  {
-    "id": "4317507_",
-    "nombre": "Club de Foot Montreal vs Toronto FC",
-    "logo": "https://logos1.tceru134gsur.ru/aelogo/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
-    "logo2": "https://logos1.tceru134gsur.ru/aelogo/football/team/a6f6290d4b7699729dc19349484841bf.png!w80"
-  },
-  {
-    "id": "4352765_",
-    "nombre": "Forge vs Pacific FC",
-    "logo": "https://logos1.tceru134gsur.ru/aelogo/football/team/eef8932afd66a66daa76d47cf7503957.png!w80",
-    "logo2": "https://logos1.tceru134gsur.ru/aelogo/football/team/400b8c4c420fe3b0c0855fa4ce7ecc3f.jpg!w80"
-  },
+
   {
     "id": "4317633_",
     "nombre": "St. Louis City SC vs Sporting Kansas City",
@@ -34,5 +22,11 @@
     "nombre": "Seattle Sounders vs Portland Timbers",
     "logo": "https://logos1.tceru134gsur.ru/aelogo/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80",
     "logo2": "https://logos1.tceru134gsur.ru/aelogo/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80"
-  }
+  },
+  {
+    "id": "4421895_",
+    "nombre": "Tijuana vs Tigres UANL",
+    "logo": "https://logos1.tceru134gsur.ru/aelogo/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",
+    "logo2": "https://logos1.tceru134gsur.ru/aelogo/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80"
+  },
 ]

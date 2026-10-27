@@ -1,140 +1,314 @@
 [
   {
-    "id": "4433371_",
-    "nombre": "FC Barcelona vs Real Madrid",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80"
+    "id": "4441340_",
+    "nombre": "US Sassuolo Calcio vs S.S. Lazio",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80"
   },
   {
-    "id": "4330261_",
-    "nombre": "Palestino vs Colo Colo",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/93aebb72f5f275d332976c73a7731186.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/b641a84c2286632196e3cb0614a41fc2.png!w80"
+    "id": "4520707_",
+    "nombre": "CD Cuarte Industrial vs Girona FC",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/b3490d44f47825ca24abb671956ed5f9.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/006ce259b33ef72dd5570cfa8dc39f38.png!w80"
   },
   {
-    "id": "4409435_",
-    "nombre": "Sport Boys vs FC Cajamarca",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a50c3c04722ce6ef1516f6b984b94e07.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/0d700fc48d10d4068e28be27334ac1ef.png!w80"
+    "id": "4450171_",
+    "nombre": "Benevento vs Catanzaro",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/32ea0f2d506ec8181164b8563387f7f0.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/40b584c93057f26b44ae5aa31aa3c7ae.png!w80"
   },
   {
-    "id": "4433196_",
-    "nombre": "Sporting CP vs Academico Viseu",
+    "id": "4519973_",
+    "nombre": "Sestao River vs Royal Espanyol",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9db499ef79a7ba2cb4864de2503e6de7.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80"
+  },
+  {
+    "id": "4521362_",
+    "nombre": "Pinatar CF vs Elche",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/ad471f230297d355466e07cd82408d24.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/e5ecd0553885f1a3af731758dddce2ec.png!w80"
+  },
+  {
+    "id": "4523868_",
+    "nombre": "Banfield Reserves vs Argentinos Jrs Reserves",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/052e003d2d999143d9944335b7abfd3e.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/dce7eaa8186e85d556de98ae219c28b7.png!w80"
+  },
+  {
+    "id": "4523869_",
+    "nombre": "CA Independiente Reserves vs Defensa y Justicia Reserves",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/591cd3c2ab45ee154bada8fba71e55aa.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/534b29da2bedc9762e0511a6d3816297.png!w80"
+  },
+  {
+    "id": "4480582_",
+    "nombre": "Al Shorta vs Al Hussein",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/24cb68778b46e3795fa58ad593e98b5d.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/c57a2fc40564fdcb7c1428215105372a.png!w80"
+  },
+  {
+    "id": "4505741_",
+    "nombre": "Al Shamal vs Al-Hilal",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/af47207f36a49c89502312138e54f6a7.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/07a555616afab7be32e00150eacf4197.png!w80"
+  },
+  {
+    "id": "4450110_",
+    "nombre": "Mantova vs Cremonese",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/adf79e68db478e32f1a2b2fe39df4668.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80"
+  },
+  {
+    "id": "4450116_",
+    "nombre": "Padova vs Sudtirol",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/498ce1dc4289645db9437dcaf3cb4439.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d290c25a10a287144ecd5bc93183c967.png!w80"
+  },
+  {
+    "id": "4450117_",
+    "nombre": "Entella vs Avellino",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/b5108109574f7844f3c6c8e6f7b635e4.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/c13f095393414a9222c9969362a07904.png!w80"
+  },
+  {
+    "id": "4450155_",
+    "nombre": "Cesena vs Empoli F. C.",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/5898771001e107f09662d4a57e5de9e0.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/6f5c8da569fe222bea0134717d622cb0.png!w80"
+  },
+  {
+    "id": "4450158_",
+    "nombre": "Ascoli vs U. C. Sampdoria",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/658bd3b9d43944d399af233c1f878cae.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/50f7236acb882158a34df0e39900acc2.png!w80"
+  },
+  {
+    "id": "4450172_",
+    "nombre": "L.R. Vicenza vs Modena",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/af68158e991ab635b8735937e8d529f7.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/1091d2c6b54a61ad817885847b4ac7a8.png!w80"
+  },
+  {
+    "id": "4505278_",
+    "nombre": "Potenza vs Bari",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/478c25d465838f37af59cd190207e32a.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/98861a6c67fd73d282b5c74a86515165.png!w80"
+  },
+  {
+    "id": "4520647_",
+    "nombre": "Altamura vs Gubbio",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/8cc527c6cd3605314e7162966c11d630.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/c5f1674087312bd492b4fdc517ab929d.png!w80"
+  },
+  {
+    "id": "4520648_",
+    "nombre": "FC Savoia 1908 vs AS Sorrento Calcio",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/6da104224e6a8cd18b980f560b9bc583.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/488cf4038705fadaf6c7db920782aa89.png!w80"
+  },
+  {
+    "id": "4421111_",
+    "nombre": "Oxford Utd vs Stockport",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/67ce0804944640bc8d67e886879b77c4.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a241e25d4563952e552e95b17af92b56.png!w80"
+  },
+  {
+    "id": "4437346_",
+    "nombre": "Woking vs Boreham Wood",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/8549868b870fc02e770f61c69f6a55ac.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/3efe2a509f94a3b62ff2ffe737974420.png!w80"
+  },
+  {
+    "id": "4437348_",
+    "nombre": "Tamworth vs Scunthorpe",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9b7ab6b2bde9214f1ba74c1342786f26.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/e7f6f7ed23a2fd59cdf1c417d0519598.png!w80"
+  },
+  {
+    "id": "4437349_",
+    "nombre": "Halifax vs Barrow",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/4fa7c62536118cc404dec4a0ca88d4f6.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/c64f85c23419ce8abb3ae813b22325af.png!w80"
+  },
+  {
+    "id": "4437352_",
+    "nombre": "Boston Utd vs Gateshead",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/50291f94d2432b2a513bf84e652a36ca.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/fbcd7d9ca422e175537bee00633d18de.png!w80"
+  },
+  {
+    "id": "4437354_",
+    "nombre": "Worthing vs Southend",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/210af717fd79c22537fb0172cfe626bd.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/7e010b1e3405661748ea9c2af41976aa.png!w80"
+  },
+  {
+    "id": "4437356_",
+    "nombre": "Hornchurch vs Yeovil",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/e21ec99e42495e54a8eef351416d007c.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/285ab9448d2751ee57ece7f762c39095.png!w80"
+  },
+  {
+    "id": "4437357_",
+    "nombre": "Altrincham vs Kidderminster",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/7d01d53cf2cf520b1b31c07067729119.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/bd8215e5d382876224ec308c6deafbc8.png!w80"
+  },
+  {
+    "id": "4437363_",
+    "nombre": "AFC Fylde vs Hartlepool",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/223e503e486bbf5218f32e776c35eb3a.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/b83df663a6378db57642ac557d6f1046.png!w80"
+  },
+  {
+    "id": "4437381_",
+    "nombre": "Wealdstone vs Solihull Moors",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/e59104705d4001fdb1824d1fd8734d0d.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/f3d757008e3ba9faa8c2f522ceeaa966.png!w80"
+  },
+  {
+    "id": "4438152_",
+    "nombre": "Braintree vs Dagenham & Red",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/abfe281c05f907b140bb6796f0c70dd6.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/531e51716d994b28e75d0596c1a6e1b7.png!w80"
+  },
+  {
+    "id": "4438158_",
+    "nombre": "Maidstone vs Ebbsfleet",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d8e2c6b89f372bf94a6689ee41994637.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/db57e1deb45381d4ae94ecaa24b4bb7b.png!w80"
+  },
+  {
+    "id": "4438181_",
+    "nombre": "AFC Totton vs Torquay",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d82d678e9583c1f5f283ec56fbf1abb7.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d2effcf26ee8deeab5ab7f4e53740583.png!w80"
+  },
+  {
+    "id": "4438363_",
+    "nombre": "Spennymoor vs South Shields",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/8ba0c63cc16a40e4f223037e0c4783d7.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/683ac4669ad9a3f5b2b695e85de1aaeb.png!w80"
+  },
+  {
+    "id": "4438374_",
+    "nombre": "Morecambe vs Darlington",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/03770b48c47d5bbb0c02cc5130b25ece.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/f594e71f1b15634290ca27cf8e8607be.png!w80"
+  },
+  {
+    "id": "4441360_",
+    "nombre": "Torino F. C. vs Como",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80"
+  },
+  {
+    "id": "4441389_",
+    "nombre": "A. S. Roma vs Cagliari",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/dba65c184e03c860ed919ce192b86c5e.png!w80"
+  },
+  {
+    "id": "4506727_",
+    "nombre": "Bradford City vs Peterborough",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/146d903844b14981ba52c5b557bbca0b.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/20b5bc9f26d0417e99737668bb5f67b9.png!w80"
+  },
+  {
+    "id": "4516695_",
+    "nombre": "Borussia Dortmund vs Werder Bremen",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80"
+  },
+  {
+    "id": "4519814_",
+    "nombre": "1. FC Colonia vs F. C. Unión Berlín",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/887b7663a0d47031528921d9972ae3a6.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80"
+  },
+  {
+    "id": "4520060_",
+    "nombre": "Elversberg vs Darmstadt",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/20f905fb0975e88482cf157ad9da4874.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/da5997a60373a56628e684ae3c16f2c8.png!w80"
+  },
+  {
+    "id": "4520589_",
+    "nombre": "Borussia Mönchengladbach vs Karlsruher",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/1d2fde8b4cbd9adc503dc5351e24513d.png!w80"
+  },
+  {
+    "id": "4409428_",
+    "nombre": "Juan Pablo II vs Sport Huancayo",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/135610c6dd7e50332c14838339453b86.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/5467a13f0c1c7b3a862587f64ba0a6ed.png!w80"
+  },
+  {
+    "id": "4506729_",
+    "nombre": "Fleetwood vs Arsenal",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/e9e4ef61f8774c7df9bcfc7a4cc32a08.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d6f5debc456da1119256ab66462ab510.png!w80"
+  },
+  {
+    "id": "4520075_",
+    "nombre": "CD Manacor vs Villarreal CF",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d118d975f3cdf403187a078f3a06f866.jpg!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/aee62af96a956756cc29fe4831286357.png!w80"
+  },
+  {
+    "id": "4520476_",
+    "nombre": "Recreativo de Huelva vs Rayo Vallecano",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/6a09357b630eb184f516f7deccbda4f3.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80"
+  },
+  {
+    "id": "4520715_",
+    "nombre": "Tudelano vs Real Zaragoza",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/efb76732a81c08d9c43bac7864dfb446.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/d81e653da8227acbde05b1bb265930eb.png!w80"
+  },
+  {
+    "id": "4520866_",
+    "nombre": "Sporting Alcazar vs Málaga",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/19e5e97ae71b5122e6a70ebe03cdb4e0.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80"
+  },
+  {
+    "id": "4501250_",
+    "nombre": "Sporting CP vs Marítimo",
     "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/646764e6e2fe4ca7970b9eb87c8b65af.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/bd659fbcfc82ac233cc8e329f35f2b50.png!w80"
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a5caa04e895b6b33ba8e816522795c30.png!w80"
   },
   {
-    "id": "4368519_",
-    "nombre": "Kansas City NWSL F vs Washington F",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/25cde92a237f9418a491eed48437478e.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/76c34622a2b9c6ccdf6d2c363e255cd3.png!w80"
+    "id": "4398534_",
+    "nombre": "Argentinos Jrs vs Ind. Rivadavia",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/df85f430a4bb46f28cb8a9b2e2aef198.png!w80"
   },
   {
-    "id": "4519441_",
-    "nombre": "Motagua vs Juticalpa",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/95528a653730e4118bed5f060739ebf2.png!w80"
+    "id": "4524434_",
+    "nombre": "Manchester City U16 vs UE Cornellà U16",
+    "logo": "https://statics1.tcpwe138stya.ru/img/sp/icon_team_def@sp.svg",
+    "logo2": "https://statics1.tcpwe138stya.ru/img/sp/icon_team_def@sp.svg"
   },
   {
-    "id": "4433866_",
-    "nombre": "Alianza Petrolera vs La Equidad",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/242d6977e9b86cba5cea704d996edbf8.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/265454b5fee1950f8aa1173147c8c593.png!w80"
+    "id": "4517702_",
+    "nombre": "Libertad vs Independiente FBC",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a82c9684d567971fb6a08d24d027892a.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/bbea4446131c9a06a327316c695a5538.png!w80"
   },
   {
-    "id": "4398535_",
-    "nombre": "River Plate vs Racing Club",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80"
+    "id": "4432581_",
+    "nombre": "Cúcuta vs Aguilas Doradas",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/972c2e951d1ba7680faee53a342bd0a2.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/3190d6d022fe9b36c65d83cf98e16d15.png!w80"
   },
   {
-    "id": "4488671_",
-    "nombre": "San Lorenzo vs Cerro Porteño",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/ed26535c0328426c282e320d201c18e6.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/c210e6c1fadf9e292797da2cdf685555.jpg!w80"
-  },
-  {
-    "id": "4523900_",
-    "nombre": "SLH St Pauls Utd vs Circle Newtown United",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/1c81d6933eb26ccd2da677739cf102f0.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9046c266280abb9a4149b603a313f55d.png!w80"
-  },
-  {
-    "id": "4330257_",
-    "nombre": "U. De Concepción vs Deportes Limache",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/acd383efbc225b6eb9eaf03b7bd37fbf.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/cac9460a93766d0f63c33b15003d9572.png!w80"
-  },
-  {
-    "id": "4409502_",
-    "nombre": "Deportivo Garcilaso vs Los Chankas",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/1802f3a400ff09802b504e0ab3ac690b.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png!w80"
-  },
-  {
-    "id": "4413654_",
-    "nombre": "Atlas vs Puebla",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80"
-  },
-  {
-    "id": "4431203_",
-    "nombre": "Tapatio vs Atl. Morelia",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/60257e6a69cb1b37317c01ac0def0aeb.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/1cd995bdc2b652d31129d027afb27ed8.png!w80"
-  },
-  {
-    "id": "4433870_",
-    "nombre": "Atl. Nacional vs Ind. Medellín",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png!w80"
-  },
-  {
-    "id": "4519348_",
-    "nombre": "Lobos UPNFM vs Olimpia",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9794409b3b15bb9ac9d9df637b249a51.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/4519ae1d1e9015ef859c968090bbd9de.png!w80"
-  },
-  {
-    "id": "4427730_",
-    "nombre": "Alajuelense vs Pérez Zeledón",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/71b66f0b7a71294f9c30f7f5bdf0cf86.png!w80"
-  },
-  {
-    "id": "4455851_",
-    "nombre": "Tigres UANL F vs Monterrey F",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/e95c88c34e4b393e4fa5a319c3d7bd07.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/19c556045bbdc3aae1101beb27d6ee9c.png!w80"
-  },
-  {
-    "id": "4398522_",
-    "nombre": "Central Córdoba vs Vélez Sarsfield",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/73eb62698518ab54028aee31105931ae.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/a7faffc34e6a44468bbd57b558641eb9.png!w80"
-  },
-  {
-    "id": "4398533_",
-    "nombre": "Barracas Central vs Estudiantes Rio Cuarto",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/578175c1a0691907824154179e179ade.png!w80"
-  },
-  {
-    "id": "4317530_",
-    "nombre": "Los Angeles FC vs Los Angeles Galaxy",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80"
-  },
-  {
-    "id": "4413660_",
-    "nombre": "Club América vs Pachuca",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80"
-  },
-  {
-    "id": "4433871_",
-    "nombre": "Tolima vs Dep. Pasto",
-    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
-    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/9fbd48de1577477753873c539c3ab106.png!w80"
+    "id": "4432659_",
+    "nombre": "Boyacá Chicó vs Junior",
+    "logo": "https://logos1.tcpwe138stya.ru/aelogo/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png!w80",
+    "logo2": "https://logos1.tcpwe138stya.ru/aelogo/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80"
   }
 ]
